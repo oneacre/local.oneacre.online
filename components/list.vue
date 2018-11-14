@@ -23,9 +23,10 @@ export default {
           title: 'Page Not Found',
           byline: 'The amazing Sebastien',
           date: '14th of September 2018', 
+          image: 'images/oa_GK_Page_Not_Found_05.jpg'
         },
         { title: 'Facetime Den Haag' },
-        { title: 'Rey' },
+        { title: 'Rae' },
         { title: 'Baobab' }
       ]
     }
