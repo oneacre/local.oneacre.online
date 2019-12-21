@@ -15,7 +15,7 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.9.0",
     "body-parser": "^1.18.3",
-    "chalk": "^2.4.1",
+    "chalk": "^3.0.0",
     "cross-env": "^5.2.0",
     "express": "^4.16.4",
     "mongodb": "^3.1.8",
