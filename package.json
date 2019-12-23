@@ -16,7 +16,7 @@
     "@nuxtjs/axios": "^5.9.0",
     "body-parser": "^1.18.3",
     "chalk": "^3.0.0",
-    "cross-env": "^5.2.0",
+    "cross-env": "^6.0.3",
     "express": "^4.17.1",
     "mongodb": "^3.1.8",
     "node-sass": "^4.9.4",
