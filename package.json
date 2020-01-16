@@ -19,7 +19,7 @@
     "cross-env": "^6.0.3",
     "express": "^4.17.1",
     "mongodb": "^3.5.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "nuxt": "^2.11.0",
     "nuxt-sass-resources-loader": "^2.0.5",
     "sass-loader": "^8.0.2",
