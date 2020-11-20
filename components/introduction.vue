@@ -2,7 +2,6 @@
   <div class="introduction">
     <h1>{{ title }}</h1>
     <div class="">
-      yo yo yo yo
     </div>
   </div>
 </template>

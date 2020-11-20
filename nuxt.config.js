@@ -39,7 +39,7 @@ module.exports = {
   modules: [
     // Doc: https://github.com/nuxt-community/axios-module#usage
     '@nuxtjs/axios',
-    ['nuxt-sass-resources-loader', ['assets/scss/main.scss']]
+    '@nuxtjs/style-resources',
   ],
   /*
   ** Axios module configuration
@@ -47,6 +47,10 @@ module.exports = {
   axios: {
     // See https://github.com/nuxt-community/axios-module#options
   },
+    // Doc: https://hackernoon.com/how-i-use-scss-variables-mixins-functions-globally-in-nuxt-js-projects-while-compiling-css-utilit-58bb6ff30438
+    styleResources: {
+      scss: ['assets/scss/colors.scss'],
+    },
 
   /*
   ** Build configuration
