@@ -17,7 +17,7 @@
     "@nuxtjs/style-resources": "^1.0.0",
     "body-parser": "^1.19.0",
     "chalk": "^4.1.0",
-    "cross-env": "^7.0.2",
+    "cross-env": "^7.0.3",
     "express": "^4.17.1",
     "mongodb": "^3.6.3",
     "node-sass": "^5.0.0",
